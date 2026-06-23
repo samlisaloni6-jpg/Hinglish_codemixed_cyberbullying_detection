@@ -1,0 +1,8 @@
+Model: DistilBERT
+Accuracy: 0.875
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+Confusion Matrix:
+[[2 1]
+ [0 5]]
